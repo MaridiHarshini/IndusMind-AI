@@ -1,7 +1,7 @@
 # IndusMind-AI
 
 ## 📖 Overview
-IndusMind-AI is an AI-powered Industrial Knowledge Intelligence Platform that enables users to upload PDF and DOCX documents and retrieve information using natural language queries. It leverages Retrieval-Augmented Generation (RAG), semantic search, ChromaDB, and Groq Llama to provide accurate, context-aware responses.
+IndusMind-AI is an AI-powered Industrial knowledge Intelligence Platform that enables users to upload PDF and DOCX documents and retrieve information using natural language queries. It leverages Retrieval_Augmented Generation(RAG), semantic search , ChromaDB, and Groq Llama to provide accurate, context-aware responses.
 
 ## ✨ Features
 - Upload PDF and DOCX documents
